@@ -1,0 +1,1 @@
+var json_LigneHTB_Raccordement_8 = {"type":"FeatureCollection","name":"LigneHTB_Raccordement_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"2","longueur":718.06},"geometry":{"type":"MultiLineString","coordinates":[[[9.82068801761552,3.934575544956749],[9.827139989021189,3.934154541482189]]]}}]}
